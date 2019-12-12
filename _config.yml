@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Drive to the CS Moon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "japal99"
 description              : "An amazing website."
 url                      : "https://japal99.github.io"
 baseurl                  : ""
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+ # name             : "Your Name"
+  avatar            : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+ #  bio             : "I am an **amazing** person."
+ # location         : "Somewhere"
+  email             :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
