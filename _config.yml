@@ -20,7 +20,7 @@ title                    : "Take a look"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ff6f61"
-description              : 
+description              : "This blog is to review what I study."
 url                      : "https://takealook00.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
