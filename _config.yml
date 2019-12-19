@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "ff6f61"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gum.jpg"
   bio              : "This blog is to review what I study."
   location         : 
   email            :
