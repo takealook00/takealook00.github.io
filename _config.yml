@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Drive to the CS Moon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "japal99"
+name                     : "ff6f61"
 description              : 
-url                      : "https://japal99.github.io"
+url                      : "https://takealook.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
